@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602946284868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1662060688",
+    "id" : "8FD8A7CA",
+    "lastKnownWriteTime" : 1602953798,
+    "last_content_update" : 1602953798294,
+    "path" : "~/Desktop/CS465/Lab/Lab4/Lab4_Code/Lab4_Code.R",
+    "project_path" : "Lab4_Code.R",
+    "properties" : {
+        "cursorPosition" : "118,0",
+        "scrollLine" : "88",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
